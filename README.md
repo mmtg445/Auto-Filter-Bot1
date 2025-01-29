@@ -24,21 +24,24 @@
 - streaming feature.
 - Advance spell check.
 - Set Custom IMDB template
+- You can delete files by names
 - No shortlinks for premium users
 - Set custom Log channel
 - Set custom file caption
 - stream/Download features for premium users.
 - Auto delete
+- You can delete all files from Database.
 - You can On/Off your pm search
 - Web-App feature.
 - Language feature.
 - Fully customizable repository
 - Broadcast & Groups broadcast
 - Different Font style available.
+- Channel for files delete.
 - Media to link feature.
 - Fully modified repo
 - Deploy To Koyeb + Heroku + Railway
-- [Developer support](https://telegram.me/CodeXSupport) 24x7
+- [Developer support](https://telegram.me/TechifySupport) 24x7
 - And many more... 
 </details>
 
@@ -73,8 +76,8 @@
 - `THREE_VERIFY_GAP` : Time in seconds for your 3rd shortner.
 - `SUPPORT_GROUP` : Your support group ID
 - `AUTH_CHANNEL` : Your force sub channel ID
+- `DELETE_CHANNELS` : Your files delete channel ID
 </details>
-</b>
 
 ### 😍 COMMANDS
 
@@ -106,47 +109,19 @@ plan - To check available plans
 premiumuser - To get list of premium users
 broadcast - To broadcast your message.
 gbroadcast - To broadcast in groups.
-
+deleteall - To delete all files from Database
+deletefiles - To delete files by their names
 ```
 </b>
 </details>
 
-### 📶 DEPLOYEMENT
-<details>
-<summary><b>Tap On Me For Deploy</summary>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʜᴇʀᴏᴋᴜ 」─
-</h3>
-
-<p align="center"><a href="https://github.com/CodeXBots/Auto-Filter-Bot">
-  <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy On Heroku">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ᴋᴏʏᴇʙ 」─
-</h3>
-<p align="center"><a href="https://app.koyeb.com/deploy?type=git&repository=github.com/CodeXBots/Auto-Filter-Bot&branch=main&name=Auto-Filter-Bot">
-  <img src="https://www.koyeb.com/static/images/deploy/button.svg" alt="Deploy On Koyeb">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴀɪʟᴡᴀʏ 」─
-</h3>
-<p align="center"><a href="https://railway.app/deploy?template=https://github.com/CodeXBots/Auto-Filter-Bot">
-     <img height="45px" src="https://railway.app/button.svg">
-</a></p>
-<h3 align="center">
-    ─「 ᴅᴇᴩʟᴏʏ ᴏɴ ʀᴇɴᴅᴇʀ 」─
-</h3>
-<p align="center"><a href="https://render.com/deploy?repo=https://github.com/CodeXBots/Auto-Filter-Bot">
-<img src="https://render.com/images/deploy-to-render-button.svg" alt="Deploy to Render">
-</a></p>
-</details>
 
 ### 🥳 CREDIT
 
 <details><summary>Tap On Me For Credit</summary>
 
 
-💝 Credit Goes To [CodeXBots](https://github.com/CodeXBots)
+💝 Credit Goes To [TechifyBots](https://github.com/TechifyBots)
 
 💘 Base Repo Credit [Eva Maria](https://telegram.me/TeamEvamaria)
 
@@ -155,11 +130,11 @@ gbroadcast - To broadcast in groups.
 
 ### 💕 CONTACT DEVELOPER
 
-- [Rahul](https://telegram.me/CodeXBro)
+- [Rahul](https://telegram.me/TechifySupport)
 
 ### ☕ BUY ME A COFFEE
-- [PayPal](https://paypal.me/RahulReviews)
-- [UPI](https://codexbots.github.io/Donate)
+- [PayPal](https://paypal.me/TechifyBots)
+- [UPI](https://TechifyBots.github.io/Donate)
 
 ### 📌 NOTE
 
